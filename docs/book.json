@@ -1,7 +1,7 @@
 {
-    "title": "python 学习笔记",
+    "title": "java 学习笔记",
     "author": "snowdreams1006",
-    "description": "python 学习笔记,python 入门教程",
+    "description": "java 学习笔记,java 入门教程",
     "gitbook": "3.2.3",
     "language": "zh-hans",
     "links": {
@@ -38,18 +38,18 @@
         "github-buttons": {
             "buttons": [{
                 "user": "snowdreams1006",
-                "repo": "learn-python",
+                "repo": "learn-java",
                 "type": "star",
                 "size": "small"
             }]
         },
         "edit-link-plus": {
             "base": {
-              "snowdreams1006.github.io":"https://github.com/snowdreams1006/learn-python/edit/master/docs",
-              "snowdreams1006.gitlab.io":"https://gitlab.com/snowdreams1006/learn-python/edit/master/docs",
-              "snowdreams1006.gitee.io":"https://gitee.com/snowdreams1006/learn-python/edit/master/docs"
+              "snowdreams1006.github.io":"https://github.com/snowdreams1006/learn-java/edit/master/docs",
+              "snowdreams1006.gitlab.io":"https://gitlab.com/snowdreams1006/learn-java/edit/master/docs",
+              "snowdreams1006.gitee.io":"https://gitee.com/snowdreams1006/learn-java/edit/master/docs"
             },
-            "defaultBase": "https://github.com/snowdreams1006/learn-python/edit/master/docs",
+            "defaultBase": "https://github.com/snowdreams1006/learn-java/edit/master/docs",
             "label": "Edit This Page"
         },
         "readmore": {
@@ -59,7 +59,7 @@
             "keyword": "vip"
         },
         "copyright": {
-            "site": "https://snowdreams1006.github.io/learn-python",
+            "site": "https://snowdreams1006.github.io/learn-java",
             "author": "雪之梦技术驿站",
             "website": "雪之梦技术驿站",
             "image": "https://snowdreams1006.github.io/snowdreams1006-wechat-open.png"
@@ -67,7 +67,7 @@
         "mygitalk": {
             "clientID": "3f62415a283d19cbd696",
             "clientSecret": "aed0e1db0620bf5d0e3a3f0225f801997ad74e58",
-            "repo": "learn-python",
+            "repo": "learn-java",
             "owner": "snowdreams1006",
             "admin": ["snowdreams1006"],
             "distractionFreeMode": false
