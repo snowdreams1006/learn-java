@@ -4,6 +4,10 @@
 
 > [https://github.com/snowdreams1006/learn-java](https://github.com/snowdreams1006/learn-java)
 
+```shell script
+git remote add origin git@github.com:snowdreams1006/learn-java.git
+git push -u origin master
+```
 
 ### Reference Documentation
 For further reference, please consider the following sections:
