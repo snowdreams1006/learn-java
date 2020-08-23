@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 # Learn Java Along With @github/Snowdreams1006
 
 ## Github Repository
 
 > [https://github.com/snowdreams1006/learn-java](https://github.com/snowdreams1006/learn-java)
 
-```shell script
-git remote add origin git@github.com:snowdreams1006/learn-java.git
-git push -u origin master
-```
+## Online Website
 
-### Reference Documentation
+> [https://snowdreams1006.github.io/learn-java/](https://snowdreams1006.github.io/learn-java/)
+
+## Reference Documentation
+
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
